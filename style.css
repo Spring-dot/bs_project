@@ -1,0 +1,25 @@
+body{
+  background: url(cam.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.hero{
+  font-family: Piedra;
+  display: flex;
+  color: #fff;
+}
+.tit{
+  color: #fff;
+  font-family: cursive;
+  display: flex;
+}
+.para{
+  font-family: cursive;
+  color: #cdf;
+}
+.container45{
+  float: left;
+  align-content: flex-end;
+}
