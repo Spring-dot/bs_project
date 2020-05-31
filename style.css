@@ -15,9 +15,19 @@ body{
   font-family: cursive;
   display: flex;
 }
-.para{
+.rowheight{
+  height: 30vh;
+}
+.rowheight1{
+  height: 5vh;
+}
+.para1{
   font-family: cursive;
-  color: #cdf;
+  color: #bff;
+}
+.para2{
+  font-family: cursive;
+  color: #0000ff;
 }
 .container45{
   float: left;
